@@ -1,0 +1,10 @@
+﻿/node_modules
+/public/hot
+/public/storage
+/storage
+*/vendor
+/.idea
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
